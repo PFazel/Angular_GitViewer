@@ -25,7 +25,7 @@
         };
 
         $scope.username = "angular";
-        $scope.countdown = 5;
+        $scope.countdown = 50;
         startCountdown();
     };
 
